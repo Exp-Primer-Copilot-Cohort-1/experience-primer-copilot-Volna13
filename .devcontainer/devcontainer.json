@@ -1,0 +1,10 @@
+{
+    "name": "Volna13 Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
